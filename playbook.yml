@@ -1,0 +1,9 @@
+---
+
+- name: Provision ELK Stack
+  hosts: all
+  sudo: yes
+  vars_files:
+    - vars/java.yml
+  roles:
+    - { role: ansiblebit.oracle-java, tags: java }
