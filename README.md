@@ -14,7 +14,7 @@ Software:
 
 Roles:
 
-    ansible-galaxy install -r requirements.txt
+    ansible-galaxy install -r requirements.yml
 
 
 ## roles
@@ -31,15 +31,15 @@ Roles:
 | Family | Distribution | Version | Test Status |
 |:-:|:-:|:-:|:-:|
 | Debian | Debian  | Jessie  | [![x86_64](http://img.shields.io/badge/x86_64-passed-006400.svg)](#) |
-| Debian | Debian  | Wheezy  | [![x86_64](http://img.shields.io/badge/x86_64-n/a-cccccc.svg)](#) |
-| Debian | Ubuntu  | Precise | [![x86_64](http://img.shields.io/badge/x86_64-n/a-cccccc.svg)](#) |
-| Debian | Ubuntu  | Trusty  | [![x86_64](http://img.shields.io/badge/x86_64-n/a-cccccc.svg)](#) |
-| Debian | Ubuntu  | Vivid   | [![x86_64](http://img.shields.io/badge/x86_64-n/a-cccccc.svg)](#) |
-| RedHat | CentOS  | 6.4     | [![x86_64](http://img.shields.io/badge/x86_64-n/a-cccccc.svg)](#) |
-| RedHat | CentOS  | 6.6     | [![x86_64](http://img.shields.io/badge/x86_64-n/a-cccccc.svg)](#) |
-| RedHat | Centos  | 7       | [![x86_64](http://img.shields.io/badge/x86_64-n/a-cccccc.svg)](#) |
-| RedHat | Fedora  | 20      | [![x86_64](http://img.shields.io/badge/x86_64-n/a-cccccc.svg)](#) |
-| RedHat | Fedora  | 21      | [![x86_64](http://img.shields.io/badge/x86_64-n/a-cccccc.svg)](#) |
+| Debian | Debian  | Wheezy  | [![x86_64](http://img.shields.io/badge/x86_64-passed-006400.svg)](#) |
+| Debian | Ubuntu  | Precise | [![x86_64](http://img.shields.io/badge/x86_64-passed-006400.svg)](#) |
+| Debian | Ubuntu  | Trusty  | [![x86_64](http://img.shields.io/badge/x86_64-passed-006400.svg)](#) |
+| Debian | Ubuntu  | Vivid   | [![x86_64](http://img.shields.io/badge/x86_64-passed-006400.svg)](#) |
+| RedHat | CentOS  | 6.4     | [![x86_64](http://img.shields.io/badge/x86_64-passed-006400.svg)](#) |
+| RedHat | CentOS  | 6.6     | [![x86_64](http://img.shields.io/badge/x86_64-passed-006400.svg)](#) |
+| RedHat | Centos  | 7       | [![x86_64](http://img.shields.io/badge/x86_64-passed-006400.svg)](#) |
+| RedHat | Fedora  | 20      | [![x86_64](http://img.shields.io/badge/x86_64-passed-006400.svg)](#) |
+| RedHat | Fedora  | 21      | [![x86_64](http://img.shields.io/badge/x86_64-passed-006400.svg)](#) |
 
 ## Links
 
