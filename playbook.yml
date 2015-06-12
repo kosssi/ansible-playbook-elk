@@ -5,5 +5,7 @@
   sudo: yes
   vars_files:
     - vars/java.yml
+    - vars/nginx.yml
   roles:
     - { role: ansiblebit.oracle-java, tags: java }
+    - { role: jdauphant.nginx, tags: nginx }

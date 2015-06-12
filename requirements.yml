@@ -1,2 +1,5 @@
 - src: ansiblebit.oracle-java
   version: v4.0.0
+
+- src: jdauphant.nginx
+  version: v1.5.1

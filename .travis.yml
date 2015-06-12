@@ -10,4 +10,4 @@ install:
 script:
   - ansible-galaxy install --force -r requirements.yml
   - ansible-playbook -i localhost, --connection=local playbook.yml
-  - cd tests && bash test_idempotence.sh --env travis
+  - cd tests && bash test_idempotence.sh
